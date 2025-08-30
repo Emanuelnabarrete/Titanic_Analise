@@ -1,5 +1,3 @@
 # Titanic_Analise
 
- 
- Link do arquivo do projeto -> 
-https://docs.google.com/document/d/1sYo0RQ1bqiAA13dlCmOPLtnVHTF5n28Tddbq7k3PkOA/edit?usp=sharing
+ ### Neste projeto pude desenvolver conceitos da analise exploratoria utilizando o Python. Foi utilizado conceitos de Tendência central e Tratamento de dados
